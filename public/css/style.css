@@ -1,0 +1,62 @@
+form {
+	margin: 15px auto;
+	width: 800px;
+}
+label {
+	display: block;
+	padding: 12px 0px;
+	font-size: 20px;
+    color: #d81717;
+}
+button {
+	margin-top: 20px;
+}
+.button {
+	position: absolute;
+    right: 0;
+    width: 100px;
+    top: 0;
+    margin-right: -140px;	
+}
+.index button {
+	
+}
+.content {
+	margin: 10px auto;
+}
+.title {
+	color: red;
+	text-align: center;
+}
+.index {
+	width: 600px;
+	position: relative;
+	margin: 20px auto;
+}
+.add {
+	margin-left: 375px;
+}
+.index h3 {
+	display: inline;
+	position: absolute;
+	padding-left: 20px;
+
+}
+a {
+	text-decoration-line: none;
+	color: #38b9ad;
+
+}
+.detail {
+	width: 800px;
+	margin: 10px auto;
+
+}
+.detail span {
+	display: block;
+	padding-top: 20px;
+	
+}
+.image {
+	display: block;
+}
